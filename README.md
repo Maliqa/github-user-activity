@@ -8,3 +8,7 @@ Simple Python CLI to fetch and display recent GitHub user activity.
 ### How to Run
 ```bash
 python github_activity.py <github_username>
+
+
+Project Page:
+https://roadmap.sh/projects/github-user-activity
